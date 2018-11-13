@@ -1,6 +1,6 @@
 <?php
 
-require('../web/Oct/install.php');
+require('../web/hello.php');
 
 $app = new Silex\Application();
 $app['debug'] = true;
