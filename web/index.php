@@ -1,4 +1,3 @@
 <?php
-require('../web/Oct/install.php');
-$app->run();
+include('../web/Oct/install.php');
 ?>
