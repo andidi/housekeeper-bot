@@ -1,3 +1,3 @@
 <?php
-require('october/install.php');
+require('install.php');
 ?>
