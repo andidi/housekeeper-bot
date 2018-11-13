@@ -1,3 +1,3 @@
 <?php
-	include("./web/Oct/install.php");
+	include("./web/hello.php");
 ?>
