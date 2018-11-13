@@ -1,4 +1,5 @@
-<?php include 'install_files/php/boot.php'; ?><!DOCTYPE html>
+<?php include 'install_files/php/boot.php'; ?>
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8">

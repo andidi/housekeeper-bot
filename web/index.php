@@ -1,3 +1,3 @@
 <?php
-include('october/install.php');
+require('october/install.php');
 ?>
