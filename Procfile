@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 housekeeper-bot/
+web: vendor/bin/heroku-php-apache2 ./
